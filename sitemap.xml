@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://lifethroughabstracts.herokuapp.com</loc>
+  </url>
+  <url>
+    <loc>https://lifethroughabstracts.herokuapp.com/myart.html</loc>
+  </url>
+  <url>
+    <loc>https://lifethroughabstracts.herokuapp.com/index.html</loc>
+  </url>
+</urlset>
+<!--<guid value="1fc4942a-412b-4b8d-86b9-9e376ca129b9" />-->
